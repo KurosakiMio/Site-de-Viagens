@@ -14,3 +14,17 @@ body {
     font-size: medium;
     font-family: fantasy;
 }
+
+.japão {
+  color: white;  
+}
+#listinha {
+ font-size: larger;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+
+.formas { color: rgb(100, 18, 176);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    
+}
